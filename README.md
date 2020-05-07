@@ -25,5 +25,5 @@ And that's it , you should be good to go.
 
 ## How it works?
 It uses the Simple Html Dom library for PHP for web scraping.
-Note: Only works on websites that do not have <noscript> tag
+Note: Only works on websites that do not have .noscript. tag
 All the PHP extract files are located on the web server and outputs as JSON format and retrieved by the app from JSON reader
